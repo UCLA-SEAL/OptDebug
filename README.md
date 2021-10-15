@@ -9,7 +9,7 @@ OptDebug identifies fault-inducing operations in a dataflow application using th
 ## Team
 This project is led by Professor [Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/) at Virginia Tech. 
 
-[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Professor at Virginia Tech, gulzar@cs.vt.edu;
+[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Professor at Virginia Tech, gulzar@cs.vt.edu; Prof Kim's former PhD student at UCLA 
 
 [Miryung Kim](http://web.cs.ucla.edu/~miryung/): Professor at UCLA, miryung@cs.ucla.edu;
 
